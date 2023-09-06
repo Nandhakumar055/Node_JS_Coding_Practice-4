@@ -1,0 +1,26 @@
+GET http://localhost:3000/todos/?status=TO%20DO
+###
+
+GET http://localhost:3000/todos/1/
+###
+
+POST http://localhost:3000/todos/
+###
+
+PUT http://localhost:3000/todos/2/
+###
+
+DELETE http://localhost:3000/todos/2/
+###
+
+GET http://localhost:3000/
+###
+
+GET http://localhost:3000/
+###
+
+GET http://localhost:3000/
+###
+
+GET http://localhost:3000/
+###
